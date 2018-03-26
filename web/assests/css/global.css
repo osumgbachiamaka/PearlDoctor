@@ -1,0 +1,169 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 8, 2016, 11:34:04 PM
+    Author     : AMAKA
+*/
+h1,h2,h3,p{
+    color: #f7f7f7;
+}
+.various-linking{
+    text-decoration:none;
+    color:#06F;
+}
+a.various-linking:hover{
+    color:#F39;
+}
+a.various-linking:active{
+    color:#F39;
+}
+span.various-linking:hover{
+    color:#F39;
+}
+body{
+    background-color: #f7f7f7;
+    width: 100%;
+    min-height: 500px;
+}
+.main{
+    width: 75%;
+    margin: auto;
+}
+#main{
+    background-color: #ffffff;
+    margin-top: -5px;
+}
+#margin{
+    margin-left: 40px;
+}
+.link{
+    text-decoration: none;
+    cursor: pointer;
+}
+#pageHeaderDiv{
+    background-color: #ffffff;
+    width: 100%; 
+    height: 130px;
+    border-radius: 10px;
+    color: #f7f7f7; 
+    margin-top: 0px; 
+    margin-bottom: 50px;
+}
+#registratin_header{
+    background-color: #f7f7f7;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    min-height: 20px;
+    padding: 15px;
+}
+#register_form{
+    margin-top: 50px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: #f7f7f7;
+    box-shadow: #ccccfff;
+}
+.input{
+    width: 350px;
+}
+#symptoms{
+    width: 280px;
+}
+.right_side{
+    float: right;
+    margin-top: 170px;
+    margin-right: 48px;
+
+}
+#right_side{
+    width: 230px;
+    min-height: 350px;
+    background-color: #f7f7f7;
+    margin-top: -125px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    font-size: 12px;
+
+}
+#right_side img{
+    width: 80px;
+    height: 80px;
+}
+#right_side p{
+    background-color: rgba(0,0,0,.8);
+    border-top-left-radius:5px;
+    border-bottom-right-radius:20px;
+    text-align:center;
+    font-size: 16px;
+}
+#about{
+    width:600px;
+    min-height:300px;
+    margin: 0 auto;
+}
+.left-side-bar{
+    float:left;
+    width:230px;
+    min-height:300px;
+    margin-top:50px;
+    margin-left: 20px;
+    color:#06F;
+    border-top-left-radius:30px;
+    border:2px rgba(0,102,255,.2) groove;
+    position: fixed;
+}
+.left-side-bar h4,h3{
+    margin-left:20px;
+    color: rgba(0,0,0,.8);
+}
+#retreive_data{
+    padding-top: 10px;
+}
+#list-panel{
+    padding-top: 55px;
+    text-align: center;
+}
+#list-panel h4{
+    background-color: #0066ff;
+    width: 150px;
+    padding: 10px;
+    
+}
+.link-list{
+    text-decoration: none;
+    color: #ffffff;
+}
+a .link-list :hover{
+    text-size: 24px;
+}
+#splash{
+    width: 650px;
+    min-height: 300px;
+    margin-left: 210px;
+    margin-top: -240px;
+    padding-left: 50px;
+    box-shadow: #6B6B6B 2px 3px 2px 3px;
+}
+#splash img{ 
+    width: 150px;
+    height: 130px;
+    margin-right: 85px;
+    margin-top: 50px;
+    border-radius: 10px;
+    border: #322f99 inset thin;
+}
+#td_prof{
+    width: 150px;
+}
+#td_ins{
+    width: 100px;
+}
+.myBody{
+    background-color: rgba(206, 161, 152, .6);
+    z-index: 4;
+    border-radius: 20px;
+}
